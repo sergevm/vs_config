@@ -1,0 +1,125 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:Boolean x:Key="/Default/CodeEditing/Intellisense/CodeCompletion/IntelliSenseCompletingCharacters/IntelliSenseCompletingCharactersSettingCSharp/UpgradedFromVSSettings/@EntryValue">True</s:Boolean>
+	
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/Profiles/=sergevm/@EntryIndexedValue">&lt;?xml version="1.0" encoding="utf-16"?&gt;&lt;Profile name="sergevm"&gt;&lt;CSUseVar&gt;&lt;BehavourStyle&gt;DISABLED&lt;/BehavourStyle&gt;&lt;LocalVariableStyle&gt;ALWAYS_IMPLICIT&lt;/LocalVariableStyle&gt;&lt;ForeachVariableStyle&gt;ALWAYS_IMPLICIT&lt;/ForeachVariableStyle&gt;&lt;/CSUseVar&gt;&lt;CSArrangeThisQualifier&gt;True&lt;/CSArrangeThisQualifier&gt;&lt;CSOptimizeUsings&gt;&lt;OptimizeUsings&gt;True&lt;/OptimizeUsings&gt;&lt;EmbraceInRegion&gt;False&lt;/EmbraceInRegion&gt;&lt;RegionName&gt;&lt;/RegionName&gt;&lt;/CSOptimizeUsings&gt;&lt;CSUseAutoProperty&gt;True&lt;/CSUseAutoProperty&gt;&lt;CSMakeFieldReadonly&gt;True&lt;/CSMakeFieldReadonly&gt;&lt;CSReorderTypeMembers&gt;True&lt;/CSReorderTypeMembers&gt;&lt;CSReformatCode&gt;True&lt;/CSReformatCode&gt;&lt;/Profile&gt;</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/RecentlyUsedProfile/@EntryValue">sergevm</s:String>
+	<s:String x:Key="/Default/CodeStyle/CodeCleanup/SilentCleanupProfile/@EntryValue">sergevm</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/Generate/=EqualityMembers/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/Generate/=EqualityMembers/Options/=EqualityOperators/@EntryIndexedValue">False</s:String>
+	<s:String x:Key="/Default/CodeStyle/Generate/=EqualityMembers/Options/=ImplementIEquatable/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/IntroduceVariableUseVar/UseVarForIntroduceVariableRefactoring/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/Abbreviations/=BPM/@EntryIndexedValue">BPM</s:String>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/PredefinedNamingRules/=PrivateInstanceFields/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="_" Suffix="" Style="aaBb" /&gt;</s:String>
+	<s:String x:Key="/Default/CodeStyle/Naming/CSharpNaming/PredefinedNamingRules/=PrivateStaticFields/@EntryIndexedValue">&lt;Policy Inspect="True" Prefix="_" Suffix="" Style="aaBb" /&gt;</s:String>
+	<s:Boolean x:Key="/Default/Environment/ExternalSources/Decompiler/DecompileMethodBodies/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExternalSources/Decompiler/DecompilerLegalNoticeAccepted/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExternalSources/FirstTimeFormShown/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/Feedback/ShouldPrompt/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/GenerateMru/GroupByType/=EqualityMembers/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/GenerateMru/GroupByType/=Implementations/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/GenerateMru/SortByName/=EqualityMembers/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/GenerateMru/SortByName/=Implementations/@EntryIndexedValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/InjectedLayers/InjectedLayerCustomization/=xunitcontrib_002Dtemplates/@KeyIndexDefined">True</s:Boolean>
+	<s:Double x:Key="/Default/Environment/InjectedLayers/InjectedLayerCustomization/=xunitcontrib_002Dtemplates/RelativePriority/@EntryValue">1</s:Double>
+	<s:Boolean x:Key="/Default/Environment/UserInterface/HideVsMenus/@EntryValue">False</s:Boolean>
+	
+	<s:String x:Key="/Default/Environment/UserInterface/ShortcutSchemeName/@EntryValue">Idea</s:String>
+	<s:Boolean x:Key="/Default/Environment/UserInterface/TipsManager/ShowTipsOnStartup/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/IntellisenseHousekeeping/HintUsed/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OptionsDialog/Position/@EntryValue">[94.4000000000001,-148.8](1024,768)</s:String>
+	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/OptionsDialog/SelectedPageId/@EntryValue">CSharpNamingStyle2</s:String>
+	<s:String x:Key="/Default/Housekeeping/Layout/DialogWindows/RefactoringWizardWindow/Location/@EntryValue">661,-453</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/LiveTemplatesHousekeeping/HotspotSessionHintIsShown/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistance/PreviewOrientation/=UnitTestSession/@EntryIndexedValue">Horizontal</s:String>
+	<s:Int64 x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistance/PreviewSplitterHorizontalPosition/=InspectionResultDescriptor/@EntryIndexedValue">266</s:Int64>
+	<s:Int64 x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistance/PreviewSplitterHorizontalPosition/=ReferencedCodeUsagesDescriptor/@EntryIndexedValue">266</s:Int64>
+	<s:Int64 x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistance/PreviewSplitterHorizontalPosition/=SearchUsagesDescriptor/@EntryIndexedValue">266</s:Int64>
+	<s:Int64 x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistance/PreviewSplitterHorizontalPosition/=TextualChangeDescriptor/@EntryIndexedValue">91</s:Int64>
+	<s:Int64 x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistance/PreviewSplitterHorizontalPosition/=UnitTestSession/@EntryIndexedValue">266</s:Int64>
+	<s:Int64 x:Key="/Default/Housekeeping/TreeModelBrowserPanelPersistance/PreviewSplitterVerticalPosition/=UnitTestSession/@EntryIndexedValue">300</s:Int64>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideIntellisense/=CSharp/@EntryIndexedValue">NotOverridden</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideIntellisense/=Css/@EntryIndexedValue">NotOverridden</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideIntellisense/=Html/@EntryIndexedValue">NotOverridden</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideIntellisense/=JavaScript/@EntryIndexedValue">OverriddenFalse</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideIntellisense/=JavaScriptVs11/@EntryIndexedValue">OverriddenFalse</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideIntellisense/=VB/@EntryIndexedValue">NotOverridden</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideIntellisense/=Xaml/@EntryIndexedValue">NotOverridden</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideParameterInfo/=CSharp/@EntryIndexedValue">NotOverridden</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideParameterInfo/=Css/@EntryIndexedValue">NotOverridden</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideParameterInfo/=Html/@EntryIndexedValue">NotOverridden</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideParameterInfo/=JavaScript/@EntryIndexedValue">OverriddenFalse</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideParameterInfo/=JavaScriptVs11/@EntryIndexedValue">OverriddenFalse</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideParameterInfo/=VB/@EntryIndexedValue">NotOverridden</s:String>
+	<s:String x:Key="/Default/Housekeeping/VsSavedAutocompletionValue/OverrideParameterInfo/=Xaml/@EntryIndexedValue">NotOverridden</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/Description/@EntryValue">InInserts the namespaces for translator and components into the UserControl tag in a XAML</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/Scope/=CF7C2F2066E462418ABD91975B64021C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/Scope/=CF7C2F2066E462418ABD91975B64021C/CustomProperties/=mask/@EntryIndexedValue">*.xaml</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/Scope/=CF7C2F2066E462418ABD91975B64021C/Type/@EntryValue">InFileWithMask</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/Shortcut/@EntryValue">pdns</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=2CFCB3F54E903E4D834BDA5950F239C9/Text/@EntryValue">             xmlns:translator="clr-namespace:Pms.Framework.Localization.Common;assembly=Pms.Framework.Localization.Common"&#xD;
+             xmlns:components="clr-namespace:Pms.Framework.Metro.Components.Controls;assembly=Pms.Framework.Metro.Components"</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Description/@EntryValue">Inserts a basic pivot in a XAML view</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=Command/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=Command/Order/@EntryValue">4</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=CommandResourceKey/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=CommandResourceKey/Order/@EntryValue">5</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=DefaultCommandContent/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=DefaultCommandContent/Order/@EntryValue">6</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=DefaultTitle/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=DefaultTitle/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=Icon/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=Icon/Order/@EntryValue">3</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=Id/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=Id/Order/@EntryValue">2</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=ResourceKey/@KeyIndexDefined">True</s:Boolean>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Field/=ResourceKey/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Scope/=CF7C2F2066E462418ABD91975B64021C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Scope/=CF7C2F2066E462418ABD91975B64021C/CustomProperties/=mask/@EntryIndexedValue">*.xaml</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Scope/=CF7C2F2066E462418ABD91975B64021C/Type/@EntryValue">InFileWithMask</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Shortcut/@EntryValue">pdpiv</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=47529A2431BC914DBF168DACE65AE1CE/Text/@EntryValue">        &lt;components:Pivot Grid.Row="1" x:Name="MainPivot" VerticalAlignment="Stretch" SelectedIndex="{Binding SelectedPivotIndex, Mode=TwoWay}"&gt;&#xD;
+            &lt;components:Pivot.PivotItems&gt;&#xD;
+                &lt;components:PivotItem Title="{Binding Path=[$ResourceKey$|$DefaultTitle$], Source={StaticResource Translator}}" &#xD;
+                                      AutomationProperties.AutomationId="$Id$Pivot"&gt;&#xD;
+                &lt;/components:PivotItem&gt;&#xD;
+                &lt;components:PivotItem Title="{Binding Path=[VehicleResults|Results], Source={StaticResource Translator}}"&#xD;
+                                      AutomationProperties.AutomationId="ResultPivot"&gt;&#xD;
+                     &lt;components:PivotItem.ContextButtons&gt;&#xD;
+                        &lt;components:RoundButton Icon="$Icon$" Command="{Binding $Command$Command}" &#xD;
+                                                Content="{Binding Path=[$CommandResourceKey$|$DefaultCommandContent$], Source={StaticResource Translator}}"&gt;&#xD;
+                        &lt;/components:RoundButton&gt;&#xD;
+                    &lt;/components:PivotItem.ContextButtons&gt;&#xD;
+                &lt;/components:PivotItem&gt;&#xD;
+            &lt;/components:Pivot.PivotItems&gt;&#xD;
+        &lt;/components:Pivot&gt;</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/@KeyIndexDefined">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Applicability/=Live/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Description/@EntryValue">Inerts translator element, and standard converters  in the resources in a XAML view</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Field/=ViewName/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Field/=ViewName/Expression/@EntryValue">getFileNameWithoutExtension()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Field/=ViewName/InitialRange/@EntryValue">-1</s:Int64>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Field/=ViewName/Order/@EntryValue">1</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Field/=ViewNamespace/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Field/=ViewNamespace/Expression/@EntryValue">fileDefaultNamespace()</s:String>
+	<s:Int64 x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Field/=ViewNamespace/Order/@EntryValue">0</s:Int64>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Reformat/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Scope/=CF7C2F2066E462418ABD91975B64021C/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Scope/=CF7C2F2066E462418ABD91975B64021C/CustomProperties/=mask/@EntryIndexedValue">*.xaml</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Scope/=CF7C2F2066E462418ABD91975B64021C/Type/@EntryValue">InFileWithMask</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Shortcut/@EntryValue">pdres</s:String>
+	<s:Boolean x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/ShortenQualifiedReferences/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/PatternsAndTemplates/LiveTemplates/Template/=B2EF19A462FC2B4EBEB1939F097ED40D/Text/@EntryValue">        &lt;translator:Translator x:Key="Translator" TranslationContainer="$ViewNamespace$.$ViewName$"&gt;&lt;/translator:Translator&gt;&#xD;
+		&lt;converters:BooleanToVisibilityConverter x:Key="BoolToVisibility" /&gt;&#xD;
+        &lt;converters:BooleanToNotVisibilityConverter x:Key="BoolToNotVisibility" /&gt;&#xD;
+        &lt;converters:BooleanToNotBooleanConverter x:Key="BoolToNotBool" /&gt;&#xD;
+</s:String>
+	<s:String x:Key="/Default/PatternsAndTemplates/Todo/TodoPatterns/=961894CCC510410ABE2B99132B253C80/Color/@EntryValue">Yellow</s:String></wpf:ResourceDictionary>

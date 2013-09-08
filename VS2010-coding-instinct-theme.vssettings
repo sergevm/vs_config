@@ -37,6 +37,7 @@
 							<Item Name="Keyword" Foreground="0x00FDC4A2" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Preprocessor Keyword" Foreground="0x000E59F5" Background="0x02000000" BoldFont="No"/>
 							<Item Name="ReSharper Todo Item" Foreground="0x00008000" Background="0x02000000" BoldFont="Yes"/>
+							<Item Name="ReSharper Warning" Foreground="0x00808000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Comment" Foreground="0x0082FB85" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script Keyword" Foreground="0x00FDC4A2" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Script String" Foreground="0x0051FD6A" Background="0x02000000" BoldFont="No"/>
