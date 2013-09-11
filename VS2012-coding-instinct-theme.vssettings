@@ -68,6 +68,11 @@
 							<Item Name="HTML Tag Delimiter" Foreground="0x0051FD6A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="Razor Code" Foreground="0x01000000" Background="0x00FF0000" BoldFont="No"/>
 							<Item Name="RegularExpressionClassificationFormat" Foreground="0x00808000" Background="0x01000001" BoldFont="No"/>
+							<Item Name="Text Template Attribute Name" Foreground="0x02000000" Background="0x01000001" BoldFont="No"/>
+							<Item Name="Text Template Attribute Value" Foreground="0x0000FFFF" Background="0x01000001" BoldFont="No"/>
+							<Item Name="Text Template Code Block" Foreground="0x01000000" Background="0x00242428" BoldFont="No"/>
+							<Item Name="Text Template Delimiter" Foreground="0x01000000" Background="0x00008080" BoldFont="No"/>
+							<Item Name="Text Template Directive Name" Foreground="0x000000FF" Background="0x01000001" BoldFont="No"/>
 						</Items>
 					</Category>
 					<Category GUID="{B36B0228-DBAD-4DB0-B9C7-2AD3E572010F}" FontName="Segoe UI" FontSize="9" CharSet="1" FontIsDefault="No">
@@ -102,6 +107,7 @@
 							<Item Name="User Types(Delegates)" Foreground="0x00B9F8FD" Background="0x02000000" BoldFont="No"/>
 							<Item Name="User Types(Enums)" Foreground="0x00AF912B" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Keyword" Foreground="0x00FDC4A2" Background="0x01000001" BoldFont="No"/>
 							<Item Name="XAML Delimiter" Foreground="0x0051FD6A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Comment" Foreground="0x0099EC88" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Name" Foreground="0x00FDC4A2" Background="0x02000000" BoldFont="No"/>
@@ -109,9 +115,9 @@
 							<Item Name="XAML CData Section" Foreground="0x009494FE" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Attribute Value" Foreground="0x0081B5FC" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XAML Attribute Quotes" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XAML Markup Extension Class" Foreground="0x001515A3" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XAML Markup Extension Parameter Name" Foreground="0x001515A3" Background="0x02000000" BoldFont="No"/>
-							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x001515A3" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Class" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Name" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
+							<Item Name="XAML Markup Extension Parameter Value" Foreground="0x0000FFFF" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Text" Foreground="0x02000000" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Delimiter" Foreground="0x0051FD6A" Background="0x02000000" BoldFont="No"/>
 							<Item Name="XML Name" Foreground="0x00FDC4A2" Background="0x02000000" BoldFont="No"/>
